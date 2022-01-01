@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.khameleon.test.TagTest" time="0.029" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="D:\Practice\JunitApp\target\test-classes;D:\Practice\JunitApp\target\classes;C:\Users\SantoshP\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\SantoshP\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\SantoshP\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\SantoshP\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SantoshP\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\SantoshP\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.boot.library.path" value="C:\Users\SantoshP\Downloads\sts-4.8.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.0.v20201014-1246\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\SantoshP\AppData\Local\Temp\surefire7625893745841830194\surefirebooter6488305586555128797.jar C:\Users\SantoshP\AppData\Local\Temp\surefire7625893745841830194 2021-12-14T13-05-42_292-jvmRun1 surefire17966543530970426412tmp surefire_05156816996237404643tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="D:\Practice\JunitApp\target\test-classes;D:\Practice\JunitApp\target\classes;C:\Users\SantoshP\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.2\junit-jupiter-engine-5.6.2.jar;C:\Users\SantoshP\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\SantoshP\.m2\repository\org\junit\platform\junit-platform-engine\1.6.2\junit-platform-engine-1.6.2.jar;C:\Users\SantoshP\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\SantoshP\.m2\repository\org\junit\platform\junit-platform-commons\1.6.2\junit-platform-commons-1.6.2.jar;C:\Users\SantoshP\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.2\junit-jupiter-api-5.6.2.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\SantoshP"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-09-15"/>
+    <property name="java.home" value="C:\Users\SantoshP\Downloads\sts-4.8.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.0.v20201014-1246\jre"/>
+    <property name="file.separator" value="\"/>
+    <property name="style.color" value="always"/>
+    <property name="basedir" value="D:\Practice\JunitApp"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\SantoshP\AppData\Local\Temp\surefire7625893745841830194\surefirebooter6488305586555128797.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="15+36-1562"/>
+    <property name="user.name" value="SantoshP"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\SantoshP\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\SantoshP\AppData\Local\Temp\"/>
+    <property name="java.version" value="15"/>
+    <property name="user.dir" value="D:\Practice\JunitApp"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\SantoshP\Downloads\sts-4.8.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.0.v20201014-1246\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Users/SantoshP/Downloads/sts-4.8.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.0.v20201014-1246/jre/bin/server;C:/Users/SantoshP/Downloads/sts-4.8.1.RELEASE//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.0.v20201014-1246/jre/bin;D:\db_home\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Java\jdk-14\bin;C:\Users\SantoshP\Downloads\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin;C:\Program Files\Git\cmd;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Java\jdk-14\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\SantoshP\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\Sophos\Sophos SSL VPN Client\bin;C:\Users\SantoshP\AppData\Local\GitHubDesktop\bin;;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\bin;;C:\Users\SantoshP\Downloads\sts-4.8.1.RELEASE;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15+36-1562"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="executeInProd" classname="com.khameleon.test.TagTest" time="0.017">
+    <system-out><![CDATA[Prod--
+]]></system-out>
+  </testcase>
+</testsuite>
