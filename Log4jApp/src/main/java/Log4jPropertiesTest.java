@@ -5,7 +5,7 @@ public class Log4jPropertiesTest {
 	static Logger log = Logger.getLogger(Log4jPropertiesTest.class);
 	
 	public static void main(String[] args) {
-		log.debug("hello debug...");
+		log.debug("hello debug...");//My merge..
 		log.warn("hello warn");
 		log.info("hello info");
 		log.error("hello error");
