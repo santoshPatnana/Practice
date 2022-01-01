@@ -6,7 +6,7 @@ public class Log4jPropertiesTest {
 	
 	public static void main(String[] args) {
 		log.debug("hello debug...");//Merge Testing.
-		log.warn("hello warn");
+		log.warn("hello warn");//new comment
 		log.info("hello info");
 		log.error("hello error");
 		log.fatal("hello fatal....");
